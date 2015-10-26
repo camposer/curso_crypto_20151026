@@ -1,12 +1,11 @@
 package util;
 
-//import java.util.Base64;
+import java.util.Base64;
 
 public class StringUtil {
 
 	public static String getBase64(byte[] cipherText) {
-		return null;
-		//return Base64.getEncoder().encodeToString(cipherText);
+		return Base64.getEncoder().encodeToString(cipherText);
 	}
 
 	public static String getHex(byte[] digestText) {
