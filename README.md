@@ -103,5 +103,6 @@ Enlaces
 - XDR y CORS
 	- http://camposer-techie.blogspot.com.es/2011/08/cors-xdm-same-origin-policy-prototype-y.html
 	- http://docs.sencha.com/extjs/4.0.7/#!/api/Ext.data.proxy.JsonP
-
+- Guía sobre la asignación de contraseña al certificado electrónico de identidad de persona física de la FNMT 
+	- https://sede.uco.es/documentos/guias/guia-asignacion-contrasena-certificado.pdf
 
