@@ -1,4 +1,4 @@
-Ejercicio 2
+Ejercicio 4
 ===========
 
 1.- Implementar un objeto remoto que ofrezca las operaciones CRUD+ sobre la entidad Persona
